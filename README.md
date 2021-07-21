@@ -18,4 +18,5 @@ The camera is always active, whenever the user scans QR Code a specific video li
 
 # How to run
 Program can be run through main.py file.
+
 python3 main.py
