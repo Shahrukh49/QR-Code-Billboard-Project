@@ -11,3 +11,11 @@ The camera is always active, whenever the user scans QR Code a specific video li
 # Block Diagram of scenario.
 
 ![Schematic 01](https://user-images.githubusercontent.com/34818652/126274303-8fddbd71-5900-4223-9005-a1a483444f33.png)
+
+# Requirements
+1) opencv
+2) numpy
+
+# How to run
+Program can be run through main.py file.
+python3 main.py
